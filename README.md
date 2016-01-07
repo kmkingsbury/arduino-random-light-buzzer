@@ -1,14 +1,46 @@
 # arduino-random-light-buzzer
 Repo for Arduino project involving LEDs, Buzzer, and some randomness
 
-TODO: Enter the cookbook description here.
+TODO: Enter the more description here.
 
-## Supported Platforms
+# Supported Platforms
 
 TODO: List your supported platforms.
 
-## Attributes
+# Contents
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><tt>bom.html</tt></td>
+    <td>Bill of Materials - List of parts, counts, approximate prices and where to find.</td>
+  </tr>
+  <tr>
+    <td><tt>drawings</tt></td>
+    <td>Mockups, SketchUp Files</td>
+  </tr>
+  <tr>
+    <td><tt>drawings/material-dimensions.md</tt></td>
+    <td>Dimensions of Materials used (used for accurate SketchUp drawings)</td>
+  </tr>
+  <tr>
+    <td><tt>schematics</tt></td>
+    <td>Fritzing Schematics for electronics</td>
+  </tr>
+  <tr>
+    <td><tt>README.md</tt></td>
+    <td>This file</td>
+  </tr>
+  <tr>
+    <td><tt>LICENSE</tt></td>
+    <td>Apache 2.0 License</td>
+  </tr>
+</table>
 
+
+## Attributes
 <table>
   <tr>
     <th>Key</th>
@@ -24,9 +56,9 @@ TODO: List your supported platforms.
   </tr>
 </table>
 
-## Usage
+# Usage
 
-### default
+## default
 
 
 ```json
@@ -37,7 +69,7 @@ TODO: List your supported platforms.
 }
 ```
 
-## License and Authors
+# License and Authors
 
 Author:: Kevin Kingsbury ([@kmkingsbury](https://twitter.com/kmkingsbury))
 
