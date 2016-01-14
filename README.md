@@ -11,6 +11,9 @@ TODO: List your supported platforms.
 Name|Description
 ----|-----------
 `bom.md`|Bill of Materials - List of parts, counts, approximate prices and where to find.
+**/code/** | Arduino Sketches & libraries
+`/code/arduino-random-led-buzzer-sketch/` | Arduino sketch Folder.
+ `/code/arduino-random-led-buzzer-sketch/pitches.h` | Include file for Tones 
 **/drawings/** | Mockups, SketchUp Files
 `/drawings/MainBoard.skp`|SketchUp Drawing
 `/drawings/material-dimensions.md`| Dimensions of Materials used (used for accurate SketchUp drawings)
